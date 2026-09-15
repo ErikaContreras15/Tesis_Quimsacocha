@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Interactables\\ColeccionableDato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Interactables\\ColeccionableDato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\managers\\uiecosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\uiecosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\uivida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uivida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\interactables\\coleccionableui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\coleccionableui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\managers\\jugadorvida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\jugadorvida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\managers\\camaraseguidora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\camaraseguidora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\enemigos\\mineroenemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\mineroenemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\enemigos\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\managers\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\managers\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\managers\\difurcacionrios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\difurcacionrios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\UGUI\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\UGUI\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\managers\\zonabifurcacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\zonabifurcacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\BifurcacionRios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Managers\\BifurcacionRios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\personajes\\personajedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\personajes\\personajedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\managers\\ecosistemamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\ecosistemamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\managers\\menuprincipalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\menuprincipalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\managers\\seleccionpersonajemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\seleccionpersonajemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\managers\\nivelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\nivelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\nat\\guardianesdequimsacocha\\assets\\scripts\\personajes\\jugadormovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\personajes\\jugadormovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIEcosistema.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\UIEcosistema.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\UIEcosistema.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\UIEcosistema.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\UIEcosistema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:17:56.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIVida.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\UIVida.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIVida.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\UIVida.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIVida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T15:37:20.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColeccionableUI.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Interactables\\ColeccionableUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\ColeccionableUI.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Interactables\\ColeccionableUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactables\\ColeccionableUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T13:30:45.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JugadorVida.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\JugadorVida.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\JugadorVida.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\JugadorVida.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\JugadorVida.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwFcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:39:18.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CamaraSeguidora.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\CamaraSeguidora.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\CamaraSeguidora.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\CamaraSeguidora.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\CamaraSeguidora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T06:04:40.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColeccionableDato.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Interactables\\ColeccionableDato.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\ColeccionableDato.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Interactables\\ColeccionableDato.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactables\\ColeccionableDato.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T13:29:19.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MineroEnemigo.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Enemigos\\MineroEnemigo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemigos\\MineroEnemigo.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Enemigos\\MineroEnemigo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemigos\\MineroEnemigo.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T15:15:32.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bala.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Enemigos\\Bala.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemigos\\Bala.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Enemigos\\Bala.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Bala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T15:23:59.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameOverManager.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameOverManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:20:16.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DifurcacionRios.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\DifurcacionRios.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\DifurcacionRios.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\DifurcacionRios.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\DifurcacionRios.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:44:30.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\UGUI\\EventSystem\\EventSystem.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\UGUI\\EventSystem\\EventSystem.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\UGUI\\EventSystem\\EventSystem.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\UGUI\\EventSystem\\EventSystem.cs",
+              "ViewState": "AgIAAOsBAAAAAAAAAAAAwAECAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:14:36.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameData.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\GameData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameData.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T23:49:14.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ZonaBifurcacion.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\ZonaBifurcacion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\ZonaBifurcacion.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\ZonaBifurcacion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\ZonaBifurcacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:01:32.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EcosistemaManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\EcosistemaManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\EcosistemaManager.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\EcosistemaManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\EcosistemaManager.cs",
+              "ViewState": "AgIAAC8AAABAAQAAAAAgwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:30:22.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NivelManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\NivelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\NivelManager.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\NivelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\NivelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:25:43.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PersonajeData.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Personajes\\PersonajeData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Personajes\\PersonajeData.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Personajes\\PersonajeData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Personajes\\PersonajeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T15:44:50.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BifurcacionRios.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\BifurcacionRios.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\BifurcacionRios.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\BifurcacionRios.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\BifurcacionRios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:37:58.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MenuPrincipalManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\MenuPrincipalManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\MenuPrincipalManager.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\MenuPrincipalManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\MenuPrincipalManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:33:54.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JugadorMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Personajes\\JugadorMovimiento.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Personajes\\JugadorMovimiento.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Personajes\\JugadorMovimiento.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Personajes\\JugadorMovimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T03:33:04.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SeleccionPersonajeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\SeleccionPersonajeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SeleccionPersonajeManager.cs",
+              "ToolTip": "C:\\Users\\Nat\\GuardianesDeQuimsacocha\\Assets\\Scripts\\Managers\\SeleccionPersonajeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\SeleccionPersonajeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:35:13.438Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

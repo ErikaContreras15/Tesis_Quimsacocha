@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0b2f18b4e9bf9d41b086bdf7a54a350, type: 3}
+  m_Name: Yaku
+  m_EditorClassIdentifier: Assembly-CSharp::PersonajeData
+  nombrePersonaje: Yaku
+  subtitulo: La voz del manantial
+  descripcion: "Aunque es la mas peque\xF1a de los guardianes,Yaku es el coraz\xF3n
+    del Quimsacocha,es la encargada de mantener el equilibrio del ciclo del agua.\n\nSe
+    dice que su canto es el que atrae las lluvias y mantiene el nivel de las lagunas. "
+  imagenPersonaje: {fileID: 0}
+  nivelPersonaje: 2
+  colorElemento: {r: 0.3921569, g: 0.5843138, b: 0.9294118, a: 1}
+  elemento: Agua

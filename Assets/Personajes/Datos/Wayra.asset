@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0b2f18b4e9bf9d41b086bdf7a54a350, type: 3}
+  m_Name: Wayra
+  m_EditorClassIdentifier: Assembly-CSharp::PersonajeData
+  nombrePersonaje: Sacha
+  subtitulo: "El aliento del p\xE1ramo"
+  descripcion: "Es la encarnacion misma de la naturaleza.Sacha es un venado sagrado,
+    que recorre los senderos invisibles de Quimsacocha.\n\nSacha es la vida que florece,
+    donde pisa, el agua brota y el frailej\xF3n crece.\n "
+  imagenPersonaje: {fileID: 0}
+  nivelPersonaje: 3
+  colorElemento: {r: 0.9137256, g: 0.5882353, b: 0.4784314, a: 1}
+  elemento: viento
